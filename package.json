@@ -1,0 +1,19 @@
+{
+  "name": "bitchain",
+  "version": "1.0.0",
+  "description": "Cryptocurrency that's solely based on the Blockchain Technology.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarshthapa/bitchain.git"
+  },
+  "author": "Adarsh Thapa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adarshthapa/bitchain/issues"
+  },
+  "homepage": "https://github.com/adarshthapa/bitchain#readme"
+}
