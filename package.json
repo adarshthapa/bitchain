@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adarshthapa/bitchain/issues"
   },
-  "homepage": "https://github.com/adarshthapa/bitchain#readme"
+  "homepage": "https://github.com/adarshthapa/bitchain#readme",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
 }
