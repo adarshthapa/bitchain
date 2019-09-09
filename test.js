@@ -20,6 +20,4 @@ const currentBlockData = [
     }
 ];
 
-const nonce = 500;
-
-console.log(bitchain.hashBlock(previousBlockHash, currentBlockData, nonce));
+console.log(bitchain.hashBlock(previousBlockHash, currentBlockData, 22289));
